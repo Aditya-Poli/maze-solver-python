@@ -9,6 +9,6 @@
 > **Future Resolution**<br>
 > Looking forward to implementing this project in Java
 
-> **Note**
+> **Note**<br>
 > **Original Author [link](https://realpython.com/team/bzaczynski/)**
 > # [Build a Maze Solver in Python Using Graphs](https://realpython.com/python-maze-solver/#demo-python-maze-solver)
