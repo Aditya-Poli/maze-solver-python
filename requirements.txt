@@ -1,0 +1,2 @@
+-e git+https://github.com/Aditya-Poli/maze-solver-python.git@b2b4c9f2a8d3749198a31883101d675c85e9189c#egg=maze_solver
+networkx==3.1
