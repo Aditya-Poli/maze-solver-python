@@ -2,12 +2,12 @@
 
 ---
 
-**This repository constains the python program for maze solving using graph algorithms(networkX) and visualize using svg**
+**This repository contains the Python program for maze solving using graph algorithms(networkX) and visualization using svg**
 
 **For markdown and pdf version of the article checkout[Resources](./Resources/)**
 
-> **Future Scope**<br>
-> Looking forward to implement this project in java
+> **Future Resolution**<br>
+> Looking forward to implementing this project in Java
 
 > **Note**
 > **Original Author [link](https://realpython.com/team/bzaczynski/)**
