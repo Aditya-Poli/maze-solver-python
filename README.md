@@ -4,7 +4,6 @@
 
 **This repository constains the python program for maze solving using graph algorithms(networkX) and visualize using svg**
 
-**For markdown and pdf version of the article checkout[Resources](./Resources/)**
 
 > **Future Scope**<br>
 > Looking forward to implement this project in java
